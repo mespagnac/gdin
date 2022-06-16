@@ -12,6 +12,11 @@
   align-items: center;
 }
 
+.main nav {
+  font-size: 24px;
+  text-align: center;
+}
+
 .footer {
   display: flex;
   flex: 1;
